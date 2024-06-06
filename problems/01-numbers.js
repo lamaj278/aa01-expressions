@@ -10,20 +10,20 @@ let num4 = 10;
 
 // 1. Set the value of expression1 to num2 plus num1.
 
-let expression1;
+let expression1 = num2 + num1;
 
 console.log(expression1); //=> 7
 
 // 2. Set the value of expression2 to num4 divided by num2.
 
-let expression2;
+let expression2 = num4 / num2;
 
 console.log(expression2); //=> 2
 
 // 3. Set the value of expression3 to the remainder of num3
 //    divided by num2.
 
-let expression3;
+let expression3 = num3 % num2;
 
 console.log(expression3); //=> 2
 
