@@ -32,7 +32,7 @@ console.log(expression3); //=> 2
 //    you think expression4 will evaluate to.
 let expression4 = num1 + 9 * (12 - num2);
 
-let predictExpression4;
+let predictExpression4 = 65;
 
 // 5. Predict what the value of expression5 will be when printed
 //    to the console. Set predictExpression5 to the value that
@@ -40,7 +40,7 @@ let predictExpression4;
 let num5 = 14;
 let expression5 = num5++;
 
-let predictExpression5;
+let predictExpression5 = 14;
 
 // 6. Predict what the value of expression6 will be when printed
 //    to the console. Set predictExpression6 to the value that
@@ -49,14 +49,14 @@ let num6 = 22;
 num6--;
 let expression6 = num6;
 
-let predictExpression6;
+let predictExpression6 = 21;
 
 // 7. Predict what the value of expression7 will be when printed
 //    to the console. Set predictExpression7 to the value that
 //    you think expression6 will evaluate to.
 let expression7 = (num4 % 6) * num1 - 3;
 
-let predictExpression7;
+let predictExpression7 = 5;
 
 
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/
